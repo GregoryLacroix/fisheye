@@ -651,6 +651,10 @@
       height: auto;
     }
 
+    .toto{
+      color: #000;
+    }
+
     .bground, .bground_form{
       background-color: rgba(197, 183, 183, 0.4);
     }
